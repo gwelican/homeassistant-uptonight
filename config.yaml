@@ -7,10 +7,13 @@ arch:
   - amd64
   - i386
 options:
-  LATITUDE: "0"
-  LONGITUDE: "0"
+  location:
+
+    LATITUDE: "0"
+    LONGITUDE: "0"
 schema:
-  LATITUDE: str
-  LONGITUDE: str
+  location:
+    LATITUDE: str
+    LONGITUDE: str
 startup: system
 timeout: 300
