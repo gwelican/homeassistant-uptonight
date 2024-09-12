@@ -8,12 +8,11 @@ arch:
   - i386
 options:
   location:
-
-    LATITUDE: "0"
-    LONGITUDE: "0"
+    latitude: "0"
+    longitude: "0"
 schema:
   location:
-    LATITUDE: str
-    LONGITUDE: str
+    latitude: str
+    longitude: str
 startup: system
 timeout: 300
