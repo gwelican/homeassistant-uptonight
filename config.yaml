@@ -1,0 +1,8 @@
+name: "Uptonight"
+description: "Uptonight homeassistant addon"
+version: "0.0.1"
+slug: "uptonight"
+init: false
+arch:
+  - amd64
+  - i386
