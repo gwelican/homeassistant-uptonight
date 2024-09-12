@@ -9,9 +9,6 @@ arch:
 options:
   LATITUDE: "0"
   LONGITUDE: "0"
-environment:
-  LATITUDE: "0"
-  LONGITUDE: "0"
 schema:
   LATITUDE: str
   LONGITUDE: str
