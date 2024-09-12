@@ -1,4 +1,4 @@
-#!/command/with-contenv bashio
+#!/bin/bash
 echo "Starting..."
 yq -Poy /data/options.json > /app/config.yaml
 cat /app/config.yaml
