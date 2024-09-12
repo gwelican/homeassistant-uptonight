@@ -10,7 +10,10 @@ options:
   location:
     latitude: "0"
     longitude: "0"
+  output_dir: /data
+
 schema:
+  output_dir: str
   location:
     latitude: str
     longitude: str
