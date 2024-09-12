@@ -7,5 +7,6 @@ set -e
 #############
 
 bashio::log.info "Starting app"
+env
 exec python3 /app/main.py
 
